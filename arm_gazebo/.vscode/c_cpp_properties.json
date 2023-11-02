@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/adp/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/adp/catkin_ws/src/iiwa_stack/iiwa_hw/include/**",
+        "/home/adp/catkin_ws/src/iiwa_stack/iiwa_ros/include/**",
+        "/home/adp/catkin_ws/src/my_package/include/**",
+        "/home/adp/catkin_ws/src/ros_tutorials/turtlesim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
